@@ -13,7 +13,7 @@ export default function Home() {
         href="/upload"
         className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-xl text-lg shadow-md"
       >
-        Unggah Foto Makanan
+        Unggah Foto Makanan Oke
       </Link>
     </main>
   );
